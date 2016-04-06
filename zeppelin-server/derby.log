@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 04 15:01:14 PDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0153-e34b-44bf-0000335c4d48 
+on database directory /private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/spark-d5e64395-fbde-482f-a5ed-3ac7dd82f0dc/metastore with class loader sun.misc.Launcher$AppClassLoader@1b6d3586 
+Loaded from file:/Users/pjoshi/Documents/workspace/incubator-zeppelin/interpreter/spark/dep/zeppelin-spark-dependencies-0.6.0-incubating-SNAPSHOT.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_73-b02
+user.dir=/Users/pjoshi/Documents/workspace/incubator-zeppelin/zeppelin-server
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

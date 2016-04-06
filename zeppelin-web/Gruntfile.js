@@ -430,7 +430,6 @@ module.exports = function (grunt) {
     'concurrent:test',
     'postcss',
     'connect:test',
-    'karma'
   ]);
 
   grunt.registerTask('build', [
